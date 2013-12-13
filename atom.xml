@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://Bumbledebee.github.io/atom.xml" rel="self"/>
+  <link href="http://Bumbledebee.github.io/"/>
+  <updated>2013-12-13T10:38:07-05:00</updated>
+  <id>http://Bumbledebee.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Ice Skating in Boston: About Me]]></title>
+    <link href="http://Bumbledebee.github.io/blog/2013/12/13/ice-skating-in-boston-about-me/"/>
+    <updated>2013-12-13T10:37:01-05:00</updated>
+    <id>http://Bumbledebee.github.io/blog/2013/12/13/ice-skating-in-boston-about-me</id>
+    <content type="html"><![CDATA[<p><img src="https://pbs.twimg.com/media/Ba_9Yx0IEAA2_fW.jpg:large" alt="Alt text" />
+I was first introduced to Ruby on Rails by <a href="https://twitter.com/railsgirls_bln">@railsgirls_bln</a> in May 2012. End of August 2012 I joined a project group called the @rubymonster hosted by <a href="https://twitter.com/travisci">@travisci</a>. <a href="https://twitter.com/OTS_BLN">@OTS_BLN</a> and <a href="https://twitter.com/railsgirls_bln">@railsgirls_bln</a> events and people have been an integral part of my learnings.
+November 2013 I joined the winter cohort of <a href="https://twitter.com/LaunchAcademy_">@LaunchAcademy_</a> in Boston.</p>
+]]></content>
+  </entry>
+  
+</feed>
