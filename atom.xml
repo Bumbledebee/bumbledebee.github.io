@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://Bumbledebee.github.io/atom.xml" rel="self"/>
   <link href="http://Bumbledebee.github.io/"/>
-  <updated>2013-12-13T10:38:07-05:00</updated>
+  <updated>2013-12-13T20:44:14-05:00</updated>
   <id>http://Bumbledebee.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,13 +14,66 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Ice Skating in Boston: About Me]]></title>
+    <title type="html"><![CDATA[User Stories and Acceptance Criteria]]></title>
+    <link href="http://Bumbledebee.github.io/blog/2013/12/13/user-stories-and-acceptance-criteria/"/>
+    <updated>2013-12-13T20:37:56-05:00</updated>
+    <id>http://Bumbledebee.github.io/blog/2013/12/13/user-stories-and-acceptance-criteria</id>
+    <content type="html"><![CDATA[<p>Launch Academy uses User Stories and Acceptance Criteria to demonstrate how different people mean different things when they say the same things. It clicked for all of us that the &ldquo;cost of change&rdquo; is cheap when one has not implemented any code. As soon as code has been implemented the cost of change is &ldquo;high&rdquo;.
+I like how Dan Picket said that user stories and acceptance criteria serve the purpose of &ldquo;getting a conversation started&rdquo;. It is not about who &ldquo;won&rdquo; the right-wrong contest and blaming each other. I love the word &ldquo;started&rdquo; as it means you are opening a door to exchange ideas and explain yourself.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Pair Programming]]></title>
+    <link href="http://Bumbledebee.github.io/blog/2013/12/13/pair-programming/"/>
+    <updated>2013-12-13T20:37:43-05:00</updated>
+    <id>http://Bumbledebee.github.io/blog/2013/12/13/pair-programming</id>
+    <content type="html"><![CDATA[<p>Pair Programming is part of the daily routine at Launch Academy. One thing for sure: Together you can achieve more than on your own.
+I was really impressed. Clearly I would have never been able to finish the same project on my own without calling an Experience Engineer every 5 minutes to unstuck me.
+It has been a really good experience to observe you and your peers complement each other and be creative in what to try or where to look next.
+And for sure you will learn another &ldquo;trick&rdquo; from the other person that simplifies your future programming life.</p>
+
+<p>Comraderie is very important in the industry, you cannot survive on your &ldquo;own&rdquo;. We need each other as people. &ldquo;People first&rdquo; and &ldquo;opensource&rdquo; are the keywords of the Ruby Community. And even as they move to other technologies these two will stay.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[My Reading List]]></title>
+    <link href="http://Bumbledebee.github.io/blog/2013/12/13/my-reading-list/"/>
+    <updated>2013-12-13T20:37:11-05:00</updated>
+    <id>http://Bumbledebee.github.io/blog/2013/12/13/my-reading-list</id>
+    <content type="html"><![CDATA[<h1>Metaprogramming Ruby. Program Like the Ruby Pros &ndash; Paolo Perrotta</h1>
+
+<h1>The Ruby Programming Language &ndash; David Flanagan, Yukihiro Matsumoto</h1>
+
+<h1>Practical Object-Oriented Design in Ruby: An Agile Primer &ndash; Sandi Metz</h1>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Object Oriented Programming]]></title>
+    <link href="http://Bumbledebee.github.io/blog/2013/12/13/object-oriented-programming/"/>
+    <updated>2013-12-13T20:36:35-05:00</updated>
+    <id>http://Bumbledebee.github.io/blog/2013/12/13/object-oriented-programming</id>
+    <content type="html"><![CDATA[<p>The shift from writing smaller ruby programs to OOP is that instead of hashes, arrays and strings one is passing objects with attributes around.
+I still cannot get my head around the physicality of objects and the most insipiring talk at Euruko 2013 for me was the one about the garbage collector.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ice Skating in Boston]]></title>
     <link href="http://Bumbledebee.github.io/blog/2013/12/13/ice-skating-in-boston-about-me/"/>
     <updated>2013-12-13T10:37:01-05:00</updated>
     <id>http://Bumbledebee.github.io/blog/2013/12/13/ice-skating-in-boston-about-me</id>
-    <content type="html"><![CDATA[<p><img src="https://pbs.twimg.com/media/Ba_9Yx0IEAA2_fW.jpg:large" alt="Alt text" />
-I was first introduced to Ruby on Rails by <a href="https://twitter.com/railsgirls_bln">@railsgirls_bln</a> in May 2012. End of August 2012 I joined a project group called the @rubymonster hosted by <a href="https://twitter.com/travisci">@travisci</a>. <a href="https://twitter.com/OTS_BLN">@OTS_BLN</a> and <a href="https://twitter.com/railsgirls_bln">@railsgirls_bln</a> events and people have been an integral part of my learnings.
-November 2013 I joined the winter cohort of <a href="https://twitter.com/LaunchAcademy_">@LaunchAcademy_</a> in Boston.</p>
+    <content type="html"><![CDATA[<p><img src="https://pbs.twimg.com/media/Ba_9Yx0IEAA2_fW.jpg:large" alt="Alt text" /></p>
+
+<p>November 2013 I joined the winter cohort of <a href="https://twitter.com/LaunchAcademy_">Launch Academy</a> in Boston.</p>
+
+<p>I was first introduced to Ruby on Rails at a <a href="https://twitter.com/railsgirls_bln">@railsgirls_bln</a> event in May 2012. End of August 2012 I joined a project group called the <a href="https://twitter.com/rubymonsters">@rubymonster</a> hosted by <a href="https://twitter.com/travisci">Travis CI</a>. <a href="https://twitter.com/OTS_BLN">OpenTechSchool Berlin</a> and <a href="https://twitter.com/railsgirls_bln">Rails Girls Berlin</a> events and people have been an integral part of my learnings.</p>
+
+<p>Ever since I am enjoying ice-skating in Boston common or Kendall square.</p>
+
+<p><img src="https://pbs.twimg.com/media/Ba_-GLuIMAA_9Gl.jpg:large" alt="Alt text" /></p>
 ]]></content>
   </entry>
   
