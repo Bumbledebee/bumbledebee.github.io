@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://Bumbledebee.github.io/atom.xml" rel="self"/>
   <link href="http://Bumbledebee.github.io/"/>
-  <updated>2013-12-13T20:55:32-05:00</updated>
+  <updated>2013-12-17T07:47:51-05:00</updated>
   <id>http://Bumbledebee.github.io/</id>
   <author>
     <name><![CDATA[Debora Blass]]></name>
@@ -29,7 +29,7 @@ I like how Dan Picket said that user stories and acceptance criteria serve the p
     <updated>2013-12-13T20:37:43-05:00</updated>
     <id>http://Bumbledebee.github.io/blog/2013/12/13/pair-programming</id>
     <content type="html"><![CDATA[<p>Pair Programming is part of the daily routine at Launch Academy. One thing for sure: Together you can achieve more than on your own.
-I was really impressed. Clearly I would have never been able to finish the same project on my own without calling an Experience Engineer every 5 minutes to unstuck me.
+I was really impressed.
 It has been a really good experience to observe you and your peers complement each other and be creative in what to try or where to look next.
 And for sure you will learn another &ldquo;trick&rdquo; from the other person that simplifies your future programming life.</p>
 
