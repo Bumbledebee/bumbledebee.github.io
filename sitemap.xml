@@ -2,7 +2,7 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://Bumbledebee.github.io/blog/2013/12/13/ice-skating-in-boston-about-me/</loc>
-        <lastmod>2013-12-13T20:40:57-05:00</lastmod>
+        <lastmod>2013-12-27T17:38:36-05:00</lastmod>
     </url>
     <url>
         <loc>http://Bumbledebee.github.io/blog/2013/12/13/object-oriented-programming/</loc>
@@ -14,7 +14,7 @@
     </url>
     <url>
         <loc>http://Bumbledebee.github.io/blog/2013/12/13/pair-programming/</loc>
-        <lastmod>2013-12-17T07:47:44-05:00</lastmod>
+        <lastmod>2014-01-05T20:24:04-05:00</lastmod>
     </url>
     <url>
         <loc>
@@ -23,12 +23,16 @@
         <lastmod>2013-12-13T20:41:00-05:00</lastmod>
     </url>
     <url>
+        <loc>http://Bumbledebee.github.io/blog/2014/01/05/development-workflow/</loc>
+        <lastmod>2014-01-05T21:06:38-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://Bumbledebee.github.io/blog/archives/</loc>
-        <lastmod>2013-12-17T07:47:44-05:00</lastmod>
+        <lastmod>2014-01-05T21:06:38-05:00</lastmod>
     </url>
     <url>
         <loc>http://Bumbledebee.github.io/</loc>
-        <lastmod>2013-12-17T07:47:44-05:00</lastmod>
+        <lastmod>2014-01-05T21:06:38-05:00</lastmod>
     </url>
     <url>
         <loc>http://Bumbledebee.github.io/robots.txt</loc>
