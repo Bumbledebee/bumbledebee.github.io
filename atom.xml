@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://Bumbledebee.github.io/atom.xml" rel="self"/>
   <link href="http://Bumbledebee.github.io/"/>
-  <updated>2014-01-05T21:08:02-05:00</updated>
+  <updated>2014-01-05T21:16:19-05:00</updated>
   <id>http://Bumbledebee.github.io/</id>
   <author>
     <name><![CDATA[Debora Blass]]></name>
@@ -24,7 +24,7 @@
 
 <p>If you want your code to be open-source or ready for hand-over your commits should reflect the workflow and one should find all the code for one feature together in one commit.</p>
 
-<p>Still you need to know what you want to be able to do it. If you have no vague idea, playing around might be the first step. Then when you have an idea, trash it all and start all over again, with &ldquo;clean&rdquo; workflow and commit stream.</p>
+<p>Still you need to know what you want to be able to do it. If you have no vague idea, playing around might be the first step. Then when you have an idea, trash it all and start all over again, with a &ldquo;clean&rdquo; workflow and commit stream.</p>
 ]]></content>
   </entry>
   
@@ -34,7 +34,7 @@
     <updated>2013-12-13T20:37:56-05:00</updated>
     <id>http://Bumbledebee.github.io/blog/2013/12/13/user-stories-and-acceptance-criteria</id>
     <content type="html"><![CDATA[<p>Launch Academy uses User Stories and Acceptance Criteria to demonstrate how different people mean different things when they say the same things. It clicked for all of us that the &ldquo;cost of change&rdquo; is cheap when one has not implemented any code. As soon as code has been implemented the cost of change is &ldquo;high&rdquo;.
-I like how Dan Picket said that user stories and acceptance criteria serve the purpose of &ldquo;getting a conversation started&rdquo;. It is not about who &ldquo;won&rdquo; the right-wrong contest and blaming each other. I love the word &ldquo;started&rdquo; as it means you are opening a door to exchange ideas and explain yourself.</p>
+I like how <a href="https://twitter.com/dpickett">Dan Pickett</a> said that user stories and acceptance criteria serve the purpose of &ldquo;getting a conversation started&rdquo;. It is not about who &ldquo;won&rdquo; the right-wrong contest and blaming each other. I love the word &ldquo;started&rdquo; as it means you are opening a door to exchange ideas and explain yourself.</p>
 ]]></content>
   </entry>
   
