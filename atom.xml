@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://Bumbledebee.github.io/atom.xml" rel="self"/>
+  <link href="http://Bumbledebee.github.io/"/>
+  <updated>2014-01-18T17:46:14-05:00</updated>
+  <id>http://Bumbledebee.github.io/</id>
+  <author>
+    <name><![CDATA[Debora Blass]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Learning Languages]]></title>
+    <link href="http://Bumbledebee.github.io/blog/2013/12/13/ice-skating-in-boston-about-me/"/>
+    <updated>2013-12-13T10:37:01-05:00</updated>
+    <id>http://Bumbledebee.github.io/blog/2013/12/13/ice-skating-in-boston-about-me</id>
+    <content type="html"><![CDATA[<p>I first was introduced to Ruby on Rails with <a href="https://twitter.com/railsgirls_bln">@railsgirls_bln</a> in 2012 and joined a weekly project group called <a href="https://twitter.com/rubymonsters">@rubymonster</a> hosted by <a href="https://twitter.com/travisci">Travis CI</a>.</p>
+
+<p><a href="https://twitter.com/OTS_BLN">OpenTechSchool Berlin</a> provided a great forum to present first results and learnings, read <a href="http://blog.opentechschool.org/2012/10/beginners-meetup-3.html">here</a>.</p>
+
+<p>Winter 2012/13 I joined <a href="https://twitter.com/LaunchAcademy_">Launch Academy</a></p>
+]]></content>
+  </entry>
+  
+</feed>
